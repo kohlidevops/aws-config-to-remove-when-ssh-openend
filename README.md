@@ -1,0 +1,1 @@
+# aws-config-to-remove-when-ssh-openend
